@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Winchen",
+    "name": "WC-PD30B050A ",
+    "pins": {
+        "1b6d04ab-0ead-4f6d-b53c-231cf6c44203": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VA2",
+            "swap_group": 0
+        },
+        "2411958b-130d-4ede-bf7e-431e3a435470": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "3c3fdbc8-f115-4792-b8af-b7fb88c26a9c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VB1",
+            "swap_group": 0
+        },
+        "6b291041-77ca-4bf0-aff3-e887c0d0368f": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "7bfb255f-86bf-4f73-81a6-ae83f46c3bfd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VB2",
+            "swap_group": 0
+        },
+        "7f55fa26-7345-419c-8617-ae14a609baba": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VA1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f0d9e4a4-83d0-4378-957d-460f380fd886"
+}
