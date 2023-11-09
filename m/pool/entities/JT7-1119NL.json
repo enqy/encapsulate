@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "f1c0cd86-60f9-44ac-ad62-91a5ed6d5662": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2da1ea1e-ae8f-400c-bada-622084160869"
+        }
+    },
+    "manufacturer": "Pulse Elec",
+    "name": "JT7-1119NL",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "ethernet"
+    ],
+    "type": "entity",
+    "uuid": "8354a0f7-0e06-4e69-ae2e-0c5648ed6769"
+}

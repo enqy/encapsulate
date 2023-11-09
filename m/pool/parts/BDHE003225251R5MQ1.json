@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "BDHE003225251R5MQ1"
+    ],
+    "base": "d674b3a6-8f6d-4b6b-9e43-36a40fc09a58",
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/lcsc/2203101903_Chilisin-Elec-BDHE003225251R5MQ1_C2981202.pdf"
+    ],
+    "description": [
+        false,
+        "Molding Power Inductors – BDHE Series BDHE Series The BDHE Series is designed specifically to enhance both PFM and PWM application performance.Q(Rac) value at light load and the RDC value at heavy load are both exceptional. Furthermore, the saturated current performance is also optimal, helping to reduce the ripple current and enhance the efficiency."
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Chilisin Elec"
+    ],
+    "model": "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f",
+    "orderable_MPNs": {
+        "443b8fc0-009a-404a-885f-1ddfe97e196b": "C2981202"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3ef02383-8a36-4bea-b2bd-291afe905617",
+    "value": [
+        true,
+        "base 1210 inductor"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "WC-PD30B050A"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/lcsc/2308251151_Winchen-WC-PD30B050A_C7543799.pdf"
+    ],
+    "description": [
+        false,
+        "The module is designed to extract power from conventional Class 5 Ethernet cable twisted pairs and meets the IEEE 802.3at Power-Ethernet (PoE) standard.At the same time, the module allows the power supply category to select \"Intermediate Overlap\" and \"End Overlap\" power supply without distinguishing polarity."
+    ],
+    "entity": "80755466-6cba-4d61-b613-3d40bef4df7c",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Winchen"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8c7f0270-8569-4679-af7a-00d8b4cc3cea",
+    "pad_map": {
+        "1f4b63f5-970d-4102-b2c8-efaed9ad4c45": {
+            "gate": "faa1f4b7-213e-4bee-9381-66202a9c6534",
+            "pin": "6b291041-77ca-4bf0-aff3-e887c0d0368f"
+        },
+        "743259d1-4f4f-476f-95ee-6fb4502b4661": {
+            "gate": "faa1f4b7-213e-4bee-9381-66202a9c6534",
+            "pin": "3c3fdbc8-f115-4792-b8af-b7fb88c26a9c"
+        },
+        "77ba237b-3194-4915-8bac-0c89165d8dae": {
+            "gate": "faa1f4b7-213e-4bee-9381-66202a9c6534",
+            "pin": "2411958b-130d-4ede-bf7e-431e3a435470"
+        },
+        "7c01d449-2f96-4c07-8cd6-b347b83ddfbc": {
+            "gate": "faa1f4b7-213e-4bee-9381-66202a9c6534",
+            "pin": "1b6d04ab-0ead-4f6d-b53c-231cf6c44203"
+        },
+        "8dec4e62-8754-490e-88b7-06c8c23457ab": {
+            "gate": "faa1f4b7-213e-4bee-9381-66202a9c6534",
+            "pin": "7bfb255f-86bf-4f73-81a6-ae83f46c3bfd"
+        },
+        "ce44c4cb-a658-40d5-8f4a-f7e95a624c7b": {
+            "gate": "faa1f4b7-213e-4bee-9381-66202a9c6534",
+            "pin": "6b291041-77ca-4bf0-aff3-e887c0d0368f"
+        },
+        "f4489914-1b17-4154-ac82-a18cee262e33": {
+            "gate": "faa1f4b7-213e-4bee-9381-66202a9c6534",
+            "pin": "2411958b-130d-4ede-bf7e-431e3a435470"
+        },
+        "f8c97b7b-bd8e-4c88-9b32-4a49b46661fe": {
+            "gate": "faa1f4b7-213e-4bee-9381-66202a9c6534",
+            "pin": "7f55fa26-7345-419c-8617-ae14a609baba"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "PoE",
+        "module",
+        "power"
+    ],
+    "type": "part",
+    "uuid": "a177f7bd-ca2e-4ee7-8f98-985c206c93f9",
+    "value": [
+        false,
+        ""
+    ]
+}
